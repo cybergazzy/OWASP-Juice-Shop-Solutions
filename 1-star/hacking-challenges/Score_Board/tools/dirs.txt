@@ -1,0 +1,105 @@
+
+=========================================================
+  _______  __/ /_  ___  _________ _____ _________  __  __
+ / ___/ / / / __ \/ _ \/ ___/ __ `/ __ `/_  /_  / / / / /
+/ /__/ /_/ / /_/ /  __/ /  / /_/ / /_/ / / /_/ /_/ /_/ /
+\___/\__, /_.___/\___/_/   \__, /\__,_/ /___/___/\__, /
+    /____/                /____/                /____/
+=========================================================
+
+[*] Scanning targets at: http://localhost:3000
+
+[+] Found 91 potential paths/endpoints:
+  /10
+  /16
+  /160
+  /2
+  /20
+  /2fa/enter
+  /40
+  /5
+  /6
+  /8
+  /about
+  /accounting
+  /address/create
+  /address/saved
+  /address/select
+  /api/Addresss
+  /api/BasketItems
+  /api/Cards
+  /api/Challenges
+  /api/Complaints
+  /api/Deliverys
+  /api/Feedbacks
+  /api/Hints
+  /api/Products
+  /api/Quantitys
+  /api/Recycles
+  /api/SecurityAnswers
+  /api/SecurityQuestions
+  /api/Users
+  /application-configuration
+  /application-version
+  /basket
+  /chatbot
+  /complain
+  /contact
+  /data-export
+  /dataerasure
+  /delivery-method
+  /deluxe-membership
+  /engine.io
+  /erasure-request
+  /file-upload
+  /forgot-password
+  /login
+  /nftMintListen
+  /nftUnlocked
+  /order-completion
+  /order-history
+  /order-summary
+  /orders
+  /payment
+  /photo-wall
+  /profile
+  /recycle
+  /register
+  /respond
+  /rest/admin
+  /rest/captcha
+  /rest/chatbot
+  /rest/continue-code
+  /rest/continue-code-findIt
+  /rest/continue-code-fixIt
+  /rest/country-mapping
+  /rest/deluxe-membership
+  /rest/memories
+  /rest/order-history
+  /rest/products
+  /rest/repeat-notification
+  /rest/saveLoginIp
+  /rest/track-order
+  /rest/user
+  /rest/user/login
+  /rest/user/reset-password
+  /rest/user/whoami
+  /rest/wallet/balance
+  /rest/web3
+  /reviews
+  /saved-payment-methods
+  /score-board
+  /search
+  /snippets
+  /snippets/fixes
+  /snippets/verdict
+  /socket.io
+  /status
+  /submitKey
+  /track-result
+  /track-result/new
+  /wallet
+  /walletExploitAddress
+  /walletNFTVerify
+
+==================================================
