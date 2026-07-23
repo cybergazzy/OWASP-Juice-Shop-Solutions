@@ -1,4 +1,4 @@
-qimport os
+import os
 import re
 import sys
 import requests
