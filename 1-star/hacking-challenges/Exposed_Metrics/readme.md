@@ -4,4 +4,4 @@ Checking the documentation of Prometheus, a default path for metrics is found ![
 
 When tested on JuiceShop, It works and exposes the metrics ![Exposed Metrics](screenshots/ExposedMetrics.png)
 
-Another Challenge Solved ![Done](ScoreBoard.png)
+Another Challenge Solved ![Done](screenshots/ScoreBoard.png)
