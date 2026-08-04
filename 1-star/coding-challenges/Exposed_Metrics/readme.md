@@ -1,3 +1,5 @@
-# Exposed Metrics
+The Problem 
+![Problem](screenshots/Issue.png)
 
-Write your write-up and notes here.
+The Solution
+![Solution](screenshots/Fix.png)
