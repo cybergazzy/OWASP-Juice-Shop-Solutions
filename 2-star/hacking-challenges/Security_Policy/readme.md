@@ -1,3 +1,5 @@
-# Security Policy
+First thing I want to do as a white hat hacker is to access the security details page
 
-Write your write-up and notes here.
+Just navigate to the path /security.txt to solve this challenge ![Evidence](screenshots/SecurityPage.png)
+
+Challenge Solved! ![Done](screenshots/ScoreBoard.png)
