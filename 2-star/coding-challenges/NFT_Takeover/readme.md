@@ -1,3 +1,2 @@
-# NFT Takeover
 
-Write your write-up and notes here.
+The Problem: ![Issue](screenshots/Problem.png)
