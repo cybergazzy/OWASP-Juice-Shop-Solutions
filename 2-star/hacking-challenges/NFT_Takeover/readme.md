@@ -8,6 +8,6 @@ I wrote a tool to convert those 12 words to an Ethereum private key using python
 
 You can see the result I got from the tool ![Tool Result](screenshots/ToolWork.png)
 
-So all you have to do is write 0x first in thr input box then paste the Private Key. After you do that, the challenge will be completed ![Evidence](screenshots/Result.png)
+So all you have to do is write '0x' first in the input box then paste the Private Key. After you do that, the challenge will be completed ![Evidence](screenshots/Result.png)
 
-Challenge Solved! ![Done](screenshots/ScoreBoard)
+Challenge Solved! ![Done](screenshots/ScoreBoard.png)
